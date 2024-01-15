@@ -23,5 +23,11 @@ li {
 }
 
 .menu-img {
-    flex-flow: column wrap;
+    position: absolute;
+    height: 100%;
+    background-attachment: scroll;
+}
+
+.me-img {
+    position: relative;
 }
